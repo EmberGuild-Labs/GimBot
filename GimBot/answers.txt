@@ -1,0 +1,11 @@
+# GimBot Answers File
+# Format:  Question | Answer
+# Lines starting with # are ignored.
+# The question does not need to be an exact match — GimBot uses fuzzy matching.
+#
+# Examples (replace with your actual questions and answers):
+What is the capital of France? | Paris
+What is 2 + 2? | 4
+Who wrote Romeo and Juliet? | Shakespeare
+What is the largest planet in the solar system? | Jupiter
+What is the chemical symbol for water? | H2O
