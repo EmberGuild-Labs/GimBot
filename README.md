@@ -3,7 +3,7 @@
 A Python bot that reads your screen, recognizes the current Gimkit question using OCR, and automatically clicks the correct answer based on a Q&A file you configure in advance.
 
 # ⚠️ WARNING ⚠️
-## THIS PROGRAM TAKES CONTROL OF YOUR MOUSE SO USE WITH CAUTION
+## This program has not had full testing, so please use caution. This is also for educational purposes ONLY.
 
 ## How it works
 
